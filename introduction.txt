@@ -1,0 +1,13 @@
+INTRODUCTION
+
+The Hospital Database Management System is a comprehensive software solution designed to streamline and automate the administrative and clinical operations of a healthcare facility. In the modern healthcare landscape, efficient management of patient data, staff schedules, appointment bookings, and financial transactions is crucial for delivering high-quality care. This project aims to address these needs by providing a robust and scalable database architecture.
+
+The system is built using SQL (Structured Query Language) to ensure data integrity, security, and fast retrieval. It encompasses various modules including Patient Management, Doctor Scheduling, Staff Administration, Billing and Payments, and In-patient Admission Management. By centralizing these functions, the system reduces manual errors, minimizes paperwork, and improves overall operational efficiency.
+
+Key features of this project include:
+- A normalized database schema to handle complex relationships between entities.
+- Automated billing calculations using stored procedures.
+- Real-time status updates for room availability and patient discharge via triggers.
+- Detailed reporting capabilities for administrative decision-making.
+
+This documentation outlines the design, implementation, and usage of the Hospital Database Management System, serving as a guide for developers and administrators.

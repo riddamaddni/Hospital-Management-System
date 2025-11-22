@@ -1,0 +1,7 @@
+ABSTRACT
+
+This project presents the design and implementation of a Hospital Database Management System (HDMS) utilizing SQL. The primary objective is to develop a centralized platform that effectively manages the multifaceted operations of a hospital, ranging from patient registration to final billing. The system is architected to handle critical data entities such as Patients, Doctors, Staff, Departments, Visits, and Admissions, ensuring seamless data flow and referential integrity.
+
+The database schema is designed with normalization principles to eliminate data redundancy and enhance consistency. Advanced SQL features, including Stored Procedures and Triggers, are employed to automate business logic such as bill generation and room occupancy management. Specifically, the system includes a procedure for calculating total patient costs based on consultation fees and duration of stay, and triggers to automatically update room status upon patient admission or discharge.
+
+Furthermore, the project includes a suite of complex queries to facilitate data analysis, such as tracking revenue, monitoring doctor performance, and generating patient visit histories. The result is a functional, efficient, and reliable database backend that can serve as the foundation for a full-stack hospital management application. This report details the database structure, the logic behind the implemented features, and the potential for future scalability.
