@@ -32,4 +32,4 @@ The project consists of the following SQL scripts and documentation files:
 - A SQL client (e.g., MySQL Workbench, DBeaver, or command line).
 
 ## Author
-[Your Name/Organization]
+[Ridda Maddni]
